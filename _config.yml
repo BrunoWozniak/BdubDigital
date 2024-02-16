@@ -1,6 +1,6 @@
-# url: 'https://brunowozniak.github.io/'
-# baseurl: '/BdubDigital'
-baseurl: '/'
+url: 'https://brunowozniak.github.io/'
+baseurl: '/BdubDigital'
+# baseurl: '/'
 permalink: pretty
 title: 'Bdub.Digital'
 
