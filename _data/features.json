@@ -1,7 +1,7 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "New clients receive a one-hour obligation free consultation.",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -10,7 +10,7 @@
   },
   {
     "title": "High-paced mission",
-    "description": "All members of our team are certified accountants.",
+    "description": "From an idea to a prototype in front of customers in a week.",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -19,7 +19,7 @@
   },
   {
     "title": "Tangible artefacts",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "description": "You get all artefacts you need to push the idea to the next stage",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

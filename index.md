@@ -1,7 +1,7 @@
 ---
-title: Jekyll Serif Theme
+title: Bdub.Digital
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Bdub.Digital is blah digiatl innovation, futures thinking, where to play, design sprint, ideas from inception to impacty.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
