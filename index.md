@@ -9,6 +9,6 @@ show_call_box: true
 ---
 
 # Bdub.Digital
-# Your idea from inception to impact
+**Your idea from inception to impact**
 
 I'll help you to lorem ipsum lorem ipsim lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum.
