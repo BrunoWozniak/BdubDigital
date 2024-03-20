@@ -5,14 +5,13 @@
     "image": "images/social/github.svg"
   },
   {
-      "name": "Email",
-      "link": "mailto:customer@bdub.digital",
-      "image": "images/social/email.svg"
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com/in/bruno-wozniak",
+    "image": "images/social/linkedin.svg"
   },
   {
-      "name": "Discord",
-      "link": "https://discord.com",
-      "image": "images/social/discord.svg"
+    "name": "Email",
+    "link": "mailto:customer.care@bdub.digital",
+    "image": "images/social/email.svg"
   }
-
 ]
