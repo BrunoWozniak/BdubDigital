@@ -2,15 +2,11 @@
 title: Contact
 layout: contact
 description: Contact
+intro_image: "images/illustrations/undraw_envelope_re_f5j4.svg"
+intro_image_absolute: false
+intro_image_hide_on_mobile: true
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+# Contact me
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+I will create a contact me form, later...
