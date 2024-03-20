@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive a one-hour obligation free consultation.",
+    "title": "Something",
+    "description": "Bring the future into focus",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/noun-vision-5230467.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "High-paced mission",
-    "description": "From an idea to a prototype in front of customers in a week.",
+    "title": "Something else",
+    "description": "Uncover and de-risk new ideas",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/noun-search-299141.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tangible artefacts",
-    "description": "You get all artefacts you need to push the idea to the next stage",
+    "title": "And something more",
+    "description": "Validate problem-solution fit",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/noun-problem-solving-4403568.svg",
       "width": 80,
       "height": 80
     }
