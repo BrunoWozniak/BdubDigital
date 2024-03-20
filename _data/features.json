@@ -1,24 +1,24 @@
 [
   {
-    "title": "Something",
+    "title": "Envision",
     "description": "Bring the future into focus",
     "image": {
-      "url": "images/features/noun-vision-5230467.svg",
+      "url": "images/features/noun-vision-1326931.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Something else",
+    "title": "Build",
     "description": "Uncover and de-risk new ideas",
     "image": {
-      "url": "images/features/noun-search-299141.svg",
+      "url": "images/features/noun-discover-6056131.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "And something more",
+    "title": "Validate",
     "description": "Validate problem-solution fit",
     "image": {
       "url": "images/features/noun-problem-solving-4403568.svg",
