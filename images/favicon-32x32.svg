@@ -2,12 +2,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(2.41397,0,0,3.39685,-10.761,-3.24454)">
-        <rect x="4.458" y="0.955" width="13.237" height="9.43"/>
+        <rect x="4.458" y="0.955" width="13.237" height="9.43" style="fill:rgb(64,64,64);"/>
     </g>
-    <g transform="matrix(0.937332,0,0,0.937332,1.00581,1.69994)">
+    <g transform="matrix(0.875752,0,0,0.875752,1.99089,2.63942)">
         <g transform="matrix(0.806211,0,0,0.806211,-25.6746,10.589)">
             <g>
-                <text x="31.016px" y="22.342px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(191,191,191);">B</text>
+                <text x="31.016px" y="22.342px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(217,217,217);">B</text>
             </g>
         </g>
         <g transform="matrix(1.15494,0,0,1.15494,-92.4651,13.6043)">

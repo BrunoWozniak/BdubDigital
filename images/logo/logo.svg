@@ -8,6 +8,6 @@
         <text x="31.016px" y="22.342px" style="font-family:'TimesNewRomanPSMT', 'Times New Roman', serif;font-size:50px;fill:rgb(191,191,191);">digital</text>
     </g>
     <g transform="matrix(1.43255,0,0,1.43255,-39.1103,31.0486)">
-        <circle cx="104.269" cy="9.492" r="3.493" style="fill:rgb(245,28,0);"/>
+        <circle cx="104.269" cy="9.492" r="3.493" style="fill:rgb(245,28,1);"/>
     </g>
 </svg>
