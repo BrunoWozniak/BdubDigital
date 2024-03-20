@@ -4,7 +4,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 2
 ---
 
-## Navigate Uncontested Waters and Discover Untapped Market Potential.
+## Discover Untapped Market Potential.
 
 ![Blue Ocean](/images/illustrations/undraw_engineering_team_a7n2.svg)
 

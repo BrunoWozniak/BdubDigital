@@ -4,9 +4,9 @@ date: 2024-03-20T08:00:00+00:00
 weight: 3
 ---
 
-# Market Opportunity Navigator Workshops: Make Strategic Choices for Growth.
+# Make Strategic Choices for Growth.
 
-![Design Sprint](/images/illustrations/undraw_visual_data_re_mxxo.svg)
+![Where To Play](/images/illustrations/undraw_visual_data_re_mxxo.svg)
 
 <!--more-->
 
