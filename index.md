@@ -2,8 +2,8 @@
 title: Bdub.digital
 layout: home
 description: I empower teams to discover groundbreaking ideas, de-risk their development and translate concepts into market-validated solutions through high-intensity collaborative work and cutting-edge methodologies.
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
+intro_image: "images/illustrations/undraw_product_iteration_kjok.svg"
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
