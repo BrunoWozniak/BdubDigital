@@ -2,7 +2,7 @@ url: 'https://bdub.coach/'
 baseurl: '/'
 # baseurl: '/'
 permalink: pretty
-title: 'Bdub.Digital'
+title: 'Bdub.digital'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
