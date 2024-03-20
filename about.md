@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: about
 description: About
 intro_image: "images/illustrations/undraw_profile_re_4a55.svg"
 intro_image_absolute: false

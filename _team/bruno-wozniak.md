@@ -1,10 +1,8 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
-promoted: true
+title: "Bruno Wozniak aka Bdub"
+date: 2024-03-08T00:00:00+00:00
+jobtitle: "Catalyst"
+linkedinurl: "https://www.linkedin.com/in/bruno-wozniak"
 weight: 1
 ---
 
