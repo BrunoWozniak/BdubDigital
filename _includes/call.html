@@ -15,7 +15,7 @@
     </div>
     {% endif %}
     <div>
-      <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formsubmit.co/bruno.wozniak@gmail.com" method="post">
+      <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://submit-form.com/AQxjKoBWf" method="post">
         <fieldset id="fs-frm-inputs">
           {% if include.show_name %}
           <input type="text" name="name" id="full-name" placeholder="Your name" required="">
@@ -24,11 +24,9 @@
           {% if include.show_message_text %}
           <textarea rows="5" name="message" id="message" placeholder="Your inquiry" required=""></textarea>
           {% endif %}
-          <input type="text" name="_honey" style="display:none">
-          <input type="hidden" name="_captcha" value="false">
-          <input type="hidden" name="_subject" id="email-subject" value="Contact Form bdub.digital">
-          <input type="hidden" name="_autoresponse" value="Thanks for contacting me.<BR>I'll get back to yu shortly.<BR>Bdub">
-          <input type="hidden" name="_next" value="https://bdub.coach/thanks.html">
+          <input type="checkbox" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off">
+          <input type="hidden" name="_email.subject" id="email-subject" value="Contact Form bdub.digital">
+          <input type="hidden" name="_redirect" value="https://bdub.coach/thank-you">
         </fieldset>
         <input type="submit" value="Send">
       </form><style>/* reset */
