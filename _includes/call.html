@@ -20,11 +20,15 @@
           {% if include.show_name %}
           <input type="text" name="name" id="full-name" placeholder="Your name" required="">
           {% endif %}
-          <input type="email" name="_replyto" id="email-address" placeholder="Your email address" required="">
+          <input type="email" name="email" id="email-address" placeholder="Your email address" required="">
           {% if include.show_message_text %}
           <textarea rows="5" name="message" id="message" placeholder="Your inquiry" required=""></textarea>
           {% endif %}
+          <input type="text" name="_honey" style="display:none">
+          <input type="hidden" name="_captcha" value="false">
           <input type="hidden" name="_subject" id="email-subject" value="Contact Form bdub.digital">
+          <input type="hidden" name="_autoresponse" value="Thanks for contacting me.<BR>I'll get back to yu shortly.<BR>Bdub">
+          <input type="hidden" name="_next" value="https://bdub.coach/thanks.html">
         </fieldset>
         <input type="submit" value="Send">
       </form><style>/* reset */
