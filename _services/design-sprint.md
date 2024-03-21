@@ -15,7 +15,7 @@ Unleash the power of Design Thinking in a focused, five-day workshop, regardless
 ## Here's what you can expect:
   > * **Pre-workshop preparation**: We'll work together to define your challenge, target audience, and desired outcomes.
   > * **Five-day intensive workshop**: I'll facilitate a collaborative process through key stages like understanding the problem, sketching solutions, prototyping, and conducting user testing.
-  > * **Closure and documentation**: We'll synthesize learnings, document key decisions, and create a clear roadmap for next steps.
+  > * **Closure and documentation**: I'll synthesize learnings, document key decisions, and create a clear roadmap for next steps.
   > * **Optional iteration**: Based on user feedback and team insights, we can further develop the most promising solution or explore pivot opportunities through an additional sprint.
 
 ## Benefits:

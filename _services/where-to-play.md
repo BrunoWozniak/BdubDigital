@@ -15,7 +15,7 @@ Uncover and prioritize the most promising market opportunities for your business
 ## Here's what you can expect:
   > * **Identify market opportunities**: We'll work together to brainstorm a wide range of potential market opportunities based on your core competencies and market trends.
   > * **Evaluate attractiveness**: Utilize the MON framework to assess each opportunity's attractiveness, considering factors like customer needs, market size, competition, and profit potential.
-  > * **D**evelop a strategic roadmap**: Based on the attractiveness assessment, we'll guide you in prioritizing opportunities and define a clear roadmap for pursuing the most promising ones.
+  > * **Develop a strategic roadmap**: Based on the attractiveness assessment, I'll guide you in prioritizing opportunities and define a clear roadmap for pursuing the most promising ones.
   > * **Agile focus planning**: Utilize the Agile Focus Dartboard, a companion tool to the MON, to define your primary market opportunity, explore backup options, and consider potential growth paths.
 
 ## Benefits:

@@ -10,16 +10,16 @@ weight: 6
 
 <!--more-->
 
-Unlock the power of design thinking to tackle your unique challenges. We offer a collaborative, user-centered approach to problem framing and resolution, tailor-made for your specific needs.
+Unlock the power of design thinking to tackle your unique challenges. I offer a collaborative, user-centered approach to problem framing and resolution, tailor-made for your specific needs.
 
 ## Here's what sets us apart:
-> * **Free 30-Minute Consultation**: We offer a complimentary consultation call or meeting to understand your challenge, discuss potential design thinking applications, and answer your questions.
-> * **Customized Approach**: There's no one-size-fits-all solution. We'll work closely with you to define your project scope and craft a personalized plan that leverages design thinking methodologies.
+> * **Free 30-Minute Consultation**: I offer a complimentary consultation call or meeting to understand your challenge, discuss potential design thinking applications, and answer your questions.
+> * **Customized Approach**: There's no one-size-fits-all solution. I'll work closely with you to define your project scope and craft a personalized plan that leverages design thinking methodologies.
 > * **Flexible Engagement**: Choose the level of support you need, from a focused problem-framing workshop to a comprehensive engagement spanning the entire problem-solving journey.
 
 ## Design Thinking Can Help You With:
 
-Here are some examples of how we've helped clients leverage design thinking to achieve success:
+Here are some examples of how I've helped clients leverage design thinking to achieve success:
 
 > * **Product Innovation**: Develop breakthrough solutions that address unmet user needs and unlock new market opportunities.
 **Example Project**: Reimagine the onboarding experience for a food delivery app, increasing user retention and engagement.
