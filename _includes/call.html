@@ -1,5 +1,9 @@
 <div class="call">
   <div class="call-box-top">
+    <div class="call-name">
+      <strong>Leave me your email address and I'll be in touch.</strong>
+      <br><br>
+    </div>
     {% if site.data.contact.phone %}
         <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
     {% endif %}
@@ -10,6 +14,55 @@
       </a>
     </div>
     {% endif %}
+    <div>
+      <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mayrdlay" method="post">
+        <fieldset id="fs-frm-inputs">
+          <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+          <input type="hidden" name="_subject" id="email-subject" value="Contact Bdub.digital">
+        </fieldset>
+        <input type="submit" value="Contact me" class="button">
+      </form><style>/* reset */
+      #fs-frm #card-element:disabled {
+        font-family: inherit;
+        font-size: 100%;
+        color: inherit;
+        border: none;
+        border-radius: 0;
+        display: block;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+      }
+      #fs-frm ::placeholder {
+        font-size: .825rem;
+        margin-bottom: .5rem;
+        padding-top: .2rem;
+        display: flex;
+        align-items: baseline;
+      }
+      
+      /* border, padding, margin, width */
+      #fs-frm input,
+      #fs-frm #card-element {
+        border: 1px solid rgba(0,0,0,0.2);
+        background-color: rgba(255,255,255,0.9);
+        padding: .75em 1rem;
+        margin-bottom: 1.5rem;
+      }
+      #fs-frm textarea:focus {
+        background-color: white;
+        outline-style: solid;
+        outline-width: thin;
+        outline-color: gray;
+        outline-offset: -1px;
+      }
+      #fs-frm [type="email"] {
+        width: 100%;
+      }
+      </style>
+    </div>
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">
