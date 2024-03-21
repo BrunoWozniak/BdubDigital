@@ -8,5 +8,3 @@ intro_image_hide_on_mobile: true
 ---
 
 # Contact me
-
-I will create a contact me form, later...

@@ -5,6 +5,9 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
+    sub:
+    - name: "Sub -> home"
+      href: "/"
 #  - name: "Team"
 #    url: "/team/"
 #    weight: 3
