@@ -13,4 +13,3 @@ show_call_box: true
 **One sprint at a time.**
 
 I empower teams to discover groundbreaking ideas, de-risk their development and translate concepts into market-validated solutions through high-intensity collaborative work and cutting-edge methodologies.
-

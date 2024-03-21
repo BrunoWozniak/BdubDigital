@@ -20,6 +20,6 @@ This shift wasn't just professional; it was personal. I witnessed the transforma
 **Let's work together to achieve results and make a real impact.**
 
 Here's what I bring to the table:
-* **Solid Technology Background**: Skilled in building modern web and mobile apps, robust backends, and leveraging machine learning.
-* **Design Thinking Champion**: Adept at facilitating innovation workshops and user-centered problem solving.
-* **Startup Methodology Advocate**: Experience in rapid prototyping and validating concepts with customers.
+> * **Solid Technology Background**: Skilled in building modern web and mobile apps, robust backends, and leveraging machine learning.
+> * **Design Thinking Champion**: Adept at facilitating innovation workshops and user-centered problem solving.
+> * **Startup Methodology Advocate**: Experience in rapid prototyping and validating concepts with customers.

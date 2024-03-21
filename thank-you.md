@@ -1,6 +1,6 @@
 ---
 title: Thank you
-layout: contact
+layout: thank-you
 description: Thank you
 intro_image: "images/illustrations/undraw_envelope_re_f5j4.svg"
 intro_image_absolute: false

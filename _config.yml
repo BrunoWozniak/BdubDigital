@@ -1,5 +1,5 @@
 url: 'https://bdub.coach/'
-baseurl: '/'
+baseurl: ''
 # baseurl: '/'
 permalink: pretty
 title: 'Bdub.digital'
@@ -30,7 +30,7 @@ defaults:
       layout: "service"
   - scope:
       path: ""
-      type: "team"
+      type: "teams"
     values:
       layout: "team"
 
