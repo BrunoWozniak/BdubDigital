@@ -19,13 +19,15 @@
         <input type="checkbox" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
         <input type="text" name="_redirect" style="display:none" value={{ "/thank-you" | absolute_url }} />
         <input type="text" name="_append" style="display:none" value="false" />
-        <input type="text" name="_email.subject" style="display:none"value='{{ site.title }} - Contact me' />
+        <input type="text" name="_email.subject" style="display:none" value='{{ site.title }} - Contact me' />
         {% if include.show_name %}
-        <input type="text" name="name" id="full-name" placeholder="Your name" required="">
+          <input type="text" name="name" id="full-name" placeholder="Your name" required="">
         {% endif %}
         <input type="email" name="_replyto" id="email-address" placeholder="Your email address" required="">
         {% if include.show_message_text %}
-        <textarea rows="5" name="message" id="message" placeholder="Your inquiry" required=""></textarea>
+          <textarea rows="5" name="message" id="message" placeholder="Your inquiry" required=""></textarea>
+        {% else %}
+          <textarea rows="5" name="message" id="message" style="display:none" value="No message (from home page)"></textarea>
         {% endif %}
         <input type="submit" value="Send">
       </form>
