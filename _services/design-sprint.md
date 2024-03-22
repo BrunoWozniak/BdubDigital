@@ -24,5 +24,7 @@ Unleash the power of Design Thinking in a focused, five-day workshop, regardless
   > * **Maximize team alignment**: Foster collaboration and shared understanding of user needs and priorities.
   > * **Increase the chance of success**: Make data-driven decisions based on real user feedback.
 
-**I offer both in-person and virtual Design Sprint facilitation, catering to your team's needs and preferences.**
+I offer both in-person and virtual Design Sprint facilitation, catering to your team's needs and preferences.
+
+**Ready to unlock the potential of your next big idea? Let's discuss how a Design Sprint can help you get there.**
 

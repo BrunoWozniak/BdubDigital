@@ -21,15 +21,13 @@ Unlock the power of design thinking to tackle your unique challenges. I offer a 
 
 Here are some examples of how I've helped clients leverage design thinking to achieve success:
 
-> * **Product Innovation**: Develop breakthrough solutions that address unmet user needs and unlock new market opportunities.
+> * **Product Innovation**: Develop breakthrough solutions that address unmet user needs and unlock new market opportunities.\
 **Example Project**: Reimagine the onboarding experience for a food delivery app, increasing user retention and engagement.
-> * **Service Design**: Enhance customer journeys by optimizing service touchpoints and creating seamless experiences.
+> * **Service Design**: Enhance customer journeys by optimizing service touchpoints and creating seamless experiences.\
 **Example Project**: Redesign the customer service process for a financial institution, improving satisfaction and reducing resolution times.
-> * **Business Strategy**: Define your strategic direction by exploring new market opportunities and assessing potential disruptive forces.
-**Example Project**: Develop a future-oriented strategy for a retail chain, anticipating changes in consumer behavior and shopping habits.
-> * **Organizational Transformation**: Foster a culture of innovation and user-centricity within your organization.
+> * **Organizational Transformation**: Foster a culture of innovation and user-centricity within your organization.\
 **Example Project**: Implement design thinking workshops across departments to empower employees to solve problems creatively.
-> * **Process Optimization**: Streamline internal workflows and improve efficiency across your organization.
+> * **Process Optimization**: Streamline internal workflows and improve efficiency across your organization.\
 **Example Project**: Refine the product development process for a software company, accelerating time-to-market and reducing development costs.
 
 These are just a few examples. Design thinking can be applied to a broad range of challenges.
