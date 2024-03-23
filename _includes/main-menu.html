@@ -6,5 +6,16 @@
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
     </li>
     {% endfor %}
+    {% for lang in site.languages %}
+    {% if lang == site.active_lang %}
+      {{ lang }}
+    {% else %}
+    {% if lang == site.default_lang %}
+      <li><a href=" {{ page.url }}">{{ lang }}</a></li>
+    {% else %}
+      <li><a href="/{{ lang }}{{ page.url }}">{{ lang }}</a></li>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
   </ul>
 </div>

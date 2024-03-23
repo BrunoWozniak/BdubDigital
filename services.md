@@ -2,7 +2,7 @@
 title: Services
 layout: services
 description: Services
-permalink: /
+permalink: /services
 intro_image: "images/illustrations/undraw_chore_list_re_2lq8.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
