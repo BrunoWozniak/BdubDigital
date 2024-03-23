@@ -44,6 +44,7 @@ sass:
 plugins:
   - jekyll-environment-variables
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
