@@ -1,4 +1,4 @@
-.logo {
+.site-logo {
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
@@ -12,7 +12,7 @@
     height: 100%;
   }
 }
-.logo-mobile {
+.site-logo-mobile {
   display: block;
   width: 40px;
   padding: 10px 0 10px 0;
