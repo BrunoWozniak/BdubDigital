@@ -2,6 +2,8 @@
 title: About
 layout: about
 description: About
+permalink: /about
+lang: en
 intro_image: "images/illustrations/undraw_profile_re_4a55.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true

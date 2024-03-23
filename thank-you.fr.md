@@ -1,14 +1,15 @@
 ---
-title: Thank you
+title: Merci
 layout: thank-you
-description: Thank you
+description: Merci
+lang: fr
 permalink: /thank-you
 intro_image: "images/illustrations/undraw_envelope_re_f5j4.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Thank you for contacting me
+# Merci de m'avoir contacté
 
-I'll get back to you shortly.\
-In the meantime, take a look at the services I offer.
+Je vous réponds très vite.\
+En attendant, jetez un oeil à mes services.

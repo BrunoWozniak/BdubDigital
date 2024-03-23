@@ -43,8 +43,12 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-polyglot
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
+include: ['_pages']
 
 exclude:
   - Gemfile
@@ -57,3 +61,13 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["assets", "images/features", "images/illustrations"]
+parallel_localization: false
+lang_from_path: true
+whitelist:
+  - jekyll-redirect-from
+sass:
+    sourcemap: never

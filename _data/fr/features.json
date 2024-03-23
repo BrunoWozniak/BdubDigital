@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Accélérez",
+    "description": "De l'idée à l'impact à la vitesse grand V",
+    "image": {
+      "url": "images/features/noun-speedometer-323335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Dé-risquez",
+    "description": "Développez vos idées à moindre risque",
+    "image": {
+      "url": "images/features/noun-new-model-6409843.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Boostez",
+    "description": "Boostez la collaboration interfonctionelle",
+    "image": {
+      "url": "images/features/noun-collaboration-6622629.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
