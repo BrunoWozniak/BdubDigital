@@ -3,6 +3,8 @@ baseurl: ''
 # baseurl: '/'
 permalink: pretty
 title: 'Bdub.digital'
+tagline: 'I will help you build the new'
+description: 'I empower teams to discover groundbreaking ideas, de-risk their development and translate concepts into market-validated solutions through high-intensity collaborative work and cutting-edge methodologies.'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -39,6 +41,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-seo-tag
 
 exclude:
   - Gemfile
