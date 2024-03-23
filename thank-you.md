@@ -9,4 +9,5 @@ intro_image_hide_on_mobile: true
 
 # Thank you for contacting me
 
-I'll get back to you shortly.
+I'll get back to you shortly.\
+In the meantime, take a look at the services I offer.
