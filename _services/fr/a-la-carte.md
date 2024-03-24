@@ -1,6 +1,6 @@
 ---
 title: "À la carte"
-lang: "fr"
+page_id: a-la-carte
 date: 2024-03-20T08:00:00+00:00
 weight: 6
 ---

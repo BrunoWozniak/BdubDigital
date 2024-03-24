@@ -23,8 +23,10 @@ collections:
   services:
     output: true
     sort_by: weight
+    permalink: /:collection/:title/
   team:
     output: true
+    permalink: /:collection/:title/
 
 defaults:
   - scope:

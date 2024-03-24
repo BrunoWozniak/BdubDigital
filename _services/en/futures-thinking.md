@@ -1,5 +1,6 @@
 ---
 title: "Futures Thinking"
+page_id: futures-thinking
 date: 2024-03-20T08:00:00+00:00
 weight: 5
 ---
