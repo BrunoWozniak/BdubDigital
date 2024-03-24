@@ -23,10 +23,10 @@ collections:
   services:
     output: true
     sort_by: weight
-    permalink: /:collection/:title/
+    permalink: /:collection/:title
   team:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -48,7 +48,6 @@ plugins:
   - jekyll-polyglot
   - jekyll-redirect-from
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 include: ['_pages']
 

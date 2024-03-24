@@ -6,4 +6,3 @@ gem "jekyll-environment-variables"
 gem 'jekyll-redirect-from'
 gem "jekyll-polyglot"
 gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
