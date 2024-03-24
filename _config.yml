@@ -65,7 +65,7 @@ exclude:
 
 languages: ["en", "fr"]
 default_lang: "en"
-exclude_from_localization: ["assets", "images/features", "images/illustrations"]
+exclude_from_localization: ["assets", "images/features", "images/illustrations", "sitemap.xml", "robots.txt"]
 parallel_localization: false
 lang_from_path: true
 whitelist:

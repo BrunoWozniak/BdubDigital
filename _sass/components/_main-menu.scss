@@ -30,6 +30,11 @@
           }
         }
       }
+      &.active_lang {
+        padding: 10px 12px 10px 12px;
+        display: inline-block;
+        color: lighten($primary, 25%)
+      }
     }
   }
 }
