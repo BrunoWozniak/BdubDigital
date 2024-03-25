@@ -15,4 +15,4 @@ last_modified_at: 2024-03-20T08:00:00+00:00
 **De l'idée à l'impact.**\
 **Un sprint à la fois.**
 
-J'accompagne vos équipes dans la génération et la réalisation d'idées nouvelles tout en dérisquant leur developpement, et à transformer les concepts en solutions validées par les utilisateurs grâce à un travail collaboratif à haute intensité et des méthodologies de pointe.
+J'accompagne vos équipes dans la génération et la réalisation d'idées nouvelles tout en dérisquant leur developpement, et dans la conversion de concepts en solutions tangibles validées par les utilisateurs, grâce à un travail collaboratif à haute intensité et des méthodologies de pointe.
