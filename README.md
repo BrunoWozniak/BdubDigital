@@ -2,9 +2,11 @@
 
 Bdub.digital's website
 
-![Jekyll Serif Theme screenshot](./images/screenshots/screenshot.png)
+![Website screenshot](./images/screenshots/screenshot.png)
 
-[Live Site](https://bdub.digital)
+[Live website](https://bdub.digital)
+
+
 
 ### Credits
 
