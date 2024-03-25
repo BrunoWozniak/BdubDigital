@@ -62,6 +62,7 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - images/screenshots/
 
 languages: ["en", "fr"]
 default_lang: "en"
