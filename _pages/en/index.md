@@ -15,3 +15,5 @@ last_modified_at: 2024-03-20T08:00:00+00:00
 **One sprint at a time.**
 
 I empower teams to discover groundbreaking ideas, de-risk their development and translate concepts into market-validated solutions through high-intensity collaborative work and cutting-edge methodologies.
+
+Just to republish index
