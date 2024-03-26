@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: site
-          path: _site
+          path: ..
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -46,7 +46,7 @@ jobs:
           sparse-checkout: |
             firebase.json
           sparse-checkout-cone-mode: false
-      - name: deploy to Firebase
+      - name: Deploy to Firebase
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
