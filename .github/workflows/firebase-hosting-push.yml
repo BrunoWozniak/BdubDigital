@@ -40,6 +40,7 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: site
+          path: _site
       - name: Display structure of downloaded files
         run: ls -R
       - name: Fetch the firebase.json
