@@ -6,6 +6,7 @@
       <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
     </li>
     {% endfor %}
+    <hr width=80%>
     {% for lang in site.languages %}
     {% assign lang_name = site.data[lang].l10n.lang_name %}
     {% if lang == site.active_lang %}
