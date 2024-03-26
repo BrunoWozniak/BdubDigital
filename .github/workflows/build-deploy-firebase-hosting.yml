@@ -1,20 +1,18 @@
+# Workflow for building and deploying the Jekyll site to Firebase
 name: Deploy site to Firebase (test)
 
 on:
   push:
-    branches:
-      - main
-    # Optionally configure to run only for specific files. For example:
-    paths:
-      - "_site/**"
+    branches: ["main"]
 
 jobs:
-  deploy_live_website:
+  # Build and Deploy job
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       # Add any build steps here. For example:
-      # - run: npm ci && npm run build
+      - run: 'sudo gem install bundler && sudo bundle install && bundle exec jekyll build '
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
