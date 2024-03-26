@@ -3,7 +3,7 @@ name: Deploy site to Firebase (test)
 
 on:
   push:
-    branches: ["main"]
+    branches: ["dev"]
 
 jobs:
   # Build and Deploy job
