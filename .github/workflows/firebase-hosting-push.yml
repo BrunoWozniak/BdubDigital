@@ -37,7 +37,7 @@ jobs:
         with:
           path: _site
       - name: Display structure of downloaded files
-        run: ls -R
+        run: ls -a
       - name: Fetch the firebase.json
         uses: actions/checkout@v4
         with:
