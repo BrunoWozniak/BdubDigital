@@ -30,16 +30,16 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
         with:
-          name: _site
+          name: site
           path: _site
   deploy:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      # - name: Get build artifacts
-      #   uses: actions/download-artifact@v3
-      #   with:
-      #     name: site
+      - name: Get build artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: site
       - name: Fetch the firebase.json
         uses: actions/checkout@v4
         with:
