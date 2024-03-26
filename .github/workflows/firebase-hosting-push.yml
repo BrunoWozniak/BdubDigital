@@ -36,10 +36,10 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      # - name: Get build artifacts
-      #   uses: actions/download-artifact@v3
-      #   with:
-      #     name: site
+      - name: Get build artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: site
       - name: Fetch the firebase.json
         uses: actions/checkout@v4
         with:
