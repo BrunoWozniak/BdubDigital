@@ -9,7 +9,7 @@ name: Deploy site to Github Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["dev"]
+    branches: ["main"]
     paths-ignore:
       - './github/**'
       - 'README.md'
