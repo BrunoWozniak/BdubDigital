@@ -33,6 +33,12 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
+      - name: Fetch firebase.json from repo
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            firebase.json
+          sparse-checkout-cone-mode: false
       - name: Get build artifacts
         uses: actions/download-artifact@v3
         with:
