@@ -1,0 +1,75 @@
+url: 'https://staging.bdub.digital'
+baseurl: ''
+# baseurl: '/'
+permalink: pretty
+title: 'Bdub.digital'
+tagline: 'I will help you build the new'
+description: 'I empower teams to discover groundbreaking ideas, de-risk their development and translate concepts into market-validated solutions through high-intensity collaborative work and cutting-edge methodologies.'
+
+logo: "images/logo/logo.svg"
+
+site-logo:
+  mobile: "images/logo/logo-mobile.svg"
+  mobile_height: "32px"
+  mobile_width: "32px"
+  desktop: "images/logo/logo.svg"
+  desktop_height: "48px"
+  desktop_width: "180px"
+
+home: 
+  limit_services: 3
+
+collections:
+  services:
+    output: true
+    sort_by: weight
+    permalink: /:collection/:title
+  team:
+    output: true
+    permalink: /:collection/:title
+
+defaults:
+  - scope:
+      path: ""
+      type: "services"
+    values:
+      layout: "service"
+  - scope:
+      path: ""
+      type: "teams"
+    values:
+      layout: "team"
+
+sass:
+  style: compressed # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
+  - jekyll-polyglot
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+
+include: ['_pages']
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md
+  - images/screenshots/
+
+languages: ["en", "fr"]
+default_lang: "en"
+exclude_from_localization: ["assets", "images/features", "images/illustrations", "sitemap.xml", "robots.txt"]
+parallel_localization: false
+lang_from_path: true
+whitelist:
+  - jekyll-redirect-from
+sass:
+    sourcemap: never
