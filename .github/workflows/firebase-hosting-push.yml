@@ -30,7 +30,8 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
         with:
-          name: site
+          name: _site
+          path: _site
   deploy:
     needs: build
     runs-on: ubuntu-latest
