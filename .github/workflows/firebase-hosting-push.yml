@@ -31,12 +31,15 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           name: site
+          path: _site
   deploy:
     needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Get build artifacts
         uses: actions/download-artifact@v3
+        with:
+          name: site
       - name: Display structure of downloaded files
         run: ls -R
       - name: Fetch the firebase.json
