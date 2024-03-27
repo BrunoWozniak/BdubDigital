@@ -28,4 +28,4 @@ Impact assessment: Evaluate the potential impact of these trends on your busines
 
 This workshop builds upon the comprehensive IFTF futures thinking framework, equipping your team with the tools and methodologies to become proactive shapers of their future.
 
-**Ready to unlock the power of foresight and navigate the unknown with confidence? Let's explore the future together!**
+**Ready to unlock the power of foresight and navigate the unknown with confidence? Let's explore the future together.**

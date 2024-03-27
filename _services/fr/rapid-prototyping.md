@@ -28,6 +28,7 @@ Transformez vos concepts innovants en expériences tangibles grâce à mon servi
 > * **Initier la validation de l'adéquation produit-marché** : Recueillir des commentaires initiaux des utilisateurs et évaluer l'intérêt du marché (prototype fonctionnel).
 
 ## À quoi pouvez-vous vous attendre :
+> * **Comprehnsive approach**: While this service can be consumed as standalone, it is also a natural next step to a [Design Sprint](/services/design-sprint)!
 > * **Collaboration étroite** : Je travaillerai en étroite collaboration avec vous pour comprendre votre vision et adapter le prototype à vos objectifs spécifiques (interactif ou fonctionnel).
 > * **Développement Agile** : En utilisant des outils et des méthodologies de prototypage rapide, je livrerai un prototype dans un délai compressé (généralement en quelques jours ou semaines, selon la complexité).
 > * **Processus itératif** : J'encourage les tests utilisateurs et les retours d'information pour affiner le prototype et m'assurer qu'il capture véritablement votre vision.

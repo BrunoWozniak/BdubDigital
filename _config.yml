@@ -24,9 +24,6 @@ collections:
     output: true
     sort_by: weight
     permalink: /:collection/:title
-  team:
-    output: true
-    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -34,11 +31,6 @@ defaults:
       type: "services"
     values:
       layout: "service"
-  - scope:
-      path: ""
-      type: "teams"
-    values:
-      layout: "team"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

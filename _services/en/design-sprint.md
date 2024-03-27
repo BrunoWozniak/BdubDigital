@@ -1,7 +1,7 @@
 ---
 title: "Design Sprint"
 page_id: design-sprint
-date: 2024-03-20T08:00:00+00:00
+date: 2024-03-27T08:00:00+00:00
 weight: 1
 ---
 
