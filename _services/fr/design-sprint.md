@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 1
 ---
 
-# Accélérez le temps entre idée et l'impact.
+# Accélérez le temps entre idée et impact.
 
 ![Design Sprint](/images/illustrations/undraw_building_websites_i78t.svg)
 
