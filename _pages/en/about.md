@@ -11,7 +11,7 @@ intro_image_hide_on_mobile: true
 
 # About me
 
-# Making an impact
+## Making an impact
 
 Here's what I bring to the table:
 

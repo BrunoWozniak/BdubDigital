@@ -8,13 +8,13 @@ lang: fr
 
 ## Politique relative au RGPD pour Google Analytics
 
-1. **Introduction** : Cette politique explique comment j'utilise les cookies et les technologies similaires, y compris Google Analytics, sur mon site Web.
+1. **Introduction** : Cette politique explique comment ce site utilise les cookies et les technologies similaires, y compris Google Analytics, sur mon site Web.
 
-2. **Collecte de données** : Je peux collecter des données personnelles, telles que l'adresse IP, le type de navigateur, le système d'exploitation et d'autres informations similaires via Google Analytics. Ces données sont utilisées pour analyser le trafic et l'utilisation du site Web afin d'améliorer notre site Web et d'offrir une meilleure expérience utilisateur.
+2. **Collecte de données** : Ce site peux potentiellement collecter des données personnelles, telles que l'adresse IP, le type de navigateur, le système d'exploitation et d'autres informations similaires via Google Analytics. Ces données sont utilisées pour analyser le trafic et l'utilisation du site Web afin d'améliorer ce dernier et d'offrir une meilleure expérience utilisateur.
 
-3. **Objectif de la collecte de données** : Les données personnelles que je collecte via Google Analytics sont utilisées uniquement dans le but d'améliorer mon site Web et d'offrir une meilleure expérience utilisateur. Je n'utilise pas ces données à d'autres fins.
+3. **Objectif de la collecte de données** : Les données personnelles collectées via Google Analytics sont utilisées uniquement dans le but d'améliorer ce site Web et d'offrir une meilleure expérience utilisateur. Je n'utilise pas ces données à d'autres fins.
 
-4. **Cookies** : J'utilise des cookies sur mon site Web pour collecter des informations sur l'utilisation du site Web. Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous visitez mon site Web. J'utilise des cookies pour me souvenir de vos préférences et analyser l'utilisation de mon site Web.
+4. **Cookies** : Ce site Web utilise des cookies pour collecter des informations sur son utilisation. Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous visitez ce site Web qui utilise ces cookies pour se souvenir de vos préférences et analyser l'utilisation.
 
 5. **Traitement des données par des tiers** : J'utilise Google Analytics pour collecter et traiter des données en mon nom. Google Analytics peut utiliser des cookies pour collecter des informations sur votre utilisation de mon site Web. Vous pouvez consulter la politique de confidentialité de Google ici : https://policies.google.com/privacy?hl=en-US
 
