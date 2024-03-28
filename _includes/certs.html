@@ -1,0 +1,18 @@
+<div class="certs">
+  {% for item in site.data.certs %}
+    {%if item.link %}
+    <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
+    {% else %}
+    <img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" />
+    {% endif %}
+  {% endfor %}
+</div>
+<div class="certs-mobile">
+  {% for item in site.data.certs %}
+    {%if item.link %}
+    <a href="{{ item.link }}" target="blank"><img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" /></a>
+    {% else %}
+    <img src="{{ item.image | relative_url }}" title="{{ item.name }}" alt="{{ item.name }}" />
+    {% endif %}
+  {% endfor %}
+</div>

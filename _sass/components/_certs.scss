@@ -1,0 +1,34 @@
+.certs {
+  display: none;
+  @include media-breakpoint-up(sm) {
+    display: block;
+  }
+  img {
+    width: 96px;
+    height: 96px;
+  }
+  a {
+    padding: 8px;
+    display: inline-block;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}
+.certs-mobile {
+  display: block;
+  @include media-breakpoint-up(sm) {
+    display: none;
+  }
+  img {
+    width: 68px;
+    height: 68px;
+  }
+  a {
+    padding: 4px;
+    display: inline-block;
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

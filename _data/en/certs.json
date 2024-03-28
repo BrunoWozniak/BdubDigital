@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Design Thinking Certified Professional",
+    "link": "https://www.credly.com/badges/fb326f9a-3c3a-4db5-8696-6f36f233846f",
+    "image": "images/certs/Design-Thinking-Professional-Certificate.png"
+  },
+  {
+    "name": "LUMA Institute Certified Practitioner",
+    "image": "images/certs/Luma-PRAC-Badge.png"
+  },
+  {
+    "name": "Design Sprint",
+    "image": "images/certs/AJ-Smart-Academy.png"
+  },
+  {
+    "name": "Blue Ocean Global Network",
+    "link": "https://www.credential.net/8ec9df21-1a03-496b-adcb-575afea1b32e#gs.72daty",
+    "image": "images/certs/Blue-Ocean-Academy.png"
+  },
+  {
+    "name": "Strategyzer Academy - BM & VP",
+    "link": "https://platform.strategyzer.com/training/certificates/184253ee/",
+    "image": "images/certs/Strategyzer-Academy.png"
+  },
+  {
+    "name": "Futures Thinking Specialization",
+    "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/2CY2EMA9M83W",
+    "image": "images/certs/IFTF.jpeg"
+  }
+]
