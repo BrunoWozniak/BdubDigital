@@ -4,11 +4,11 @@
     display: block;
   }
   img {
+    padding: 8px;
     width: 96px;
     height: 96px;
   }
   a {
-    padding: 8px;
     display: inline-block;
     &:hover {
       opacity: 0.8;
@@ -21,11 +21,11 @@
     display: none;
   }
   img {
+    padding: 4px;
     width: 68px;
     height: 68px;
   }
   a {
-    padding: 4px;
     display: inline-block;
     &:hover {
       opacity: 0.8;
