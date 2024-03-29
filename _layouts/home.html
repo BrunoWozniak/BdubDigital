@@ -9,7 +9,7 @@ bodyClass: "page-home"
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
         {% if page.show_call_box %}
-          {% include call.html show_name=false show_message_text=false show_button=false box_title=site.data.strings.want_to_talk %}
+          {% include call.html show_name=false show_message_text=false box_title=site.data.strings.want_to_talk %}
         {% endif %}
       </div>
       {% if page.intro_image %}
@@ -25,7 +25,6 @@ bodyClass: "page-home"
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-
       {% for feature in site.data.features %}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
         <div class="feature">
@@ -37,7 +36,6 @@ bodyClass: "page-home"
         </div>
       </div>
       {% endfor %}
-
     </div>
   </div>
 </div>

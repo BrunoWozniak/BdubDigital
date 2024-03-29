@@ -8,8 +8,13 @@ bodyClass: "page-services"
         <div class="row justify-content-start">
             <div class="col-12 col-md-7 col-lg-7 order-2 order-md-1">
                 <div>{{ content }}</div>
+                <div class="col-auto">
+                    <a class="button button-primary" href="{{ "contact" | relative_url }}">{{ site.data.strings.get_in_touch }}</a>
+                  </div>
                 {% if site.data.certs %}
+                <div>
                 {% include certs.html %}
+                </div>
                 {% endif %}
             </div>
             {% if page.intro_image %}

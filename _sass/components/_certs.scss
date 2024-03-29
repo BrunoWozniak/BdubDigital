@@ -1,5 +1,6 @@
 .certs {
   display: none;
+  padding-top: 80px;
   @include media-breakpoint-up(sm) {
     display: block;
   }
@@ -17,6 +18,7 @@
 }
 .certs-mobile {
   display: block;
+  padding-top: 40px;
   @include media-breakpoint-up(sm) {
     display: none;
   }

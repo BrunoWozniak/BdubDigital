@@ -1,0 +1,73 @@
+
+.form {
+  input,
+  textarea {
+    font-family: inherit;
+    font-size: 100%;
+    color: inherit;
+    border: none;
+    border-radius: 0;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  ::placeholder {
+    font-size: .825rem;
+    margin-bottom: .5rem;
+    padding-top: .2rem;
+    display: flex;
+    align-items: baseline;
+  }
+
+  /* border, padding, margin, width */
+  input,
+  textarea {
+    border: 1px solid rgba(0,0,0,0.2);
+    background-color: rgba(255,255,255,0.9);
+    padding: .75em 1rem;
+    margin-bottom: 1.5rem;
+  }
+  input:focus,
+  textarea:focus {
+    background-color: white;
+    outline-style: solid;
+    outline-width: thin;
+    outline-color: gray;
+    outline-offset: -1px;
+  }
+  input[type="text"],
+  input[type="email"] {
+    width: 100%;
+  }
+  input[type="submit"] {
+    width: 40%;
+    white-space: nowrap;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 14px;
+    background: $primary;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    color: #ffffff;
+    text-decoration: none;
+    -webkit-transition: all 0.15s ease;
+    transition: all 0.15s ease;
+    &:hover {
+      color: #ffffff;
+      background: darken($primary, 15%);
+      transform: translateY(-1px);
+      text-decoration: none;
+    }
+  }
+  input[type="submit"]:focus {
+    outline: none;
+  }
+  input[type="submit"] {
+    margin-bottom: 0;
+  }
+}

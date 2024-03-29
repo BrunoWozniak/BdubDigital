@@ -1,14 +1,15 @@
 .staging-banner {
-  background: $primary;
+  background: darken($primary, 20%);
   padding-top: 15px;
   padding-bottom: 15px;
+  margin-bottom: 20px;
   width: 100%;
   display: flex;
-  Justify-content: center;
+  justify-content: center;
   .staging-banner-title {
     color: $white;
     font-size: 1.3rem;
-    font-family: $font-family-heading;
+    font-family: $font-family-base;
     font-weight: bold;
     margin-bottom: 10px;
     text-align:center;
