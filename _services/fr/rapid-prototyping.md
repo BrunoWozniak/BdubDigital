@@ -11,7 +11,7 @@ weight: 4
 
 <!--more-->
 
-Convertissez vos idéeset concepts en solutions tangibles grâce à mon service de prototypage et de développement rapide. Je suis spécialisé dans la création de prototypes "haute fidélité" et de versions préliminaires de votre produit qui couvrent les éléments suivants :
+Convertissez vos idées et concepts en solutions tangibles grâce à mon service de prototypage et de développement rapide. Je suis spécialisé dans la création de prototypes "haute fidélité" et de versions préliminaires de votre produit qui couvrent les éléments suivants :
 
 > * **Front-End (Mobile et Web App)** : Je concrétiserai votre vision en une application présentant une interface intuitive, et incluant les fonctionnalités requises.
 >   * **Prototype interactif** : Focalisé sur l'expérience utilisateur et la validation de la faisabilité du concept de base.
