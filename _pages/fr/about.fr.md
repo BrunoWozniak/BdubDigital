@@ -15,9 +15,9 @@ intro_image_hide_on_mobile: true
 
 Voici ce que je peux vous apporter :
 
-> **Partisan du design thinking** : Expert en animation d'ateliers d'innovation et en résolution de problèmes centrée sur l'utilisateur.\
+> **Praticien design thinking** : Expert en animation d'ateliers d'innovation et en résolution de problèmes centrée sur l'utilisateur.\
 > **Adepte des méthodologies startup** : Expérience dans le prototypage rapide et la validation de concepts auprès des clients.\
-> **Solide expérience technique** : Compétent dans la création d'applications web et mobiles modernes, de backends robustes et du machine learning.
+> **Solide expertise technique** : Compétent dans la création d'applications web et mobiles modernes, de backends robustes et du machine learning.
 
 Pendant de nombreuses années, j'ai évolué dans le monde dynamique de la technologie. De l'informatique d'entreprise au SaaS, de la logistique aux satellites de communication, j'ai perfectionné mes compétences dans divers secteurs. Ma passion est de délivrer des solutions numériques et des applications qui donnent aux entreprises les moyens d'être meilleur : applications web et mobiles, backends modernes et implémentations d'intelligence artificielle.
 
