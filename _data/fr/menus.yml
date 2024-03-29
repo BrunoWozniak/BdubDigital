@@ -11,11 +11,3 @@ main:
   - name: "Contact"
     url: "/contact"
     weight: 5
-
-footer:
-  - name: "Accueil"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact"
-    weight: 2

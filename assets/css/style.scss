@@ -85,7 +85,6 @@ $sub-footer-text-color: $white;
 @import "components/type";
 @import "components/page";
 @import "components/header";
-@import "components/footer";
 @import "components/sub-footer";
 @import "components/logo";
 @import "components/main-menu";
@@ -101,6 +100,7 @@ $sub-footer-text-color: $white;
 @import "components/feature";
 @import "components/social";
 @import "components/certs";
+@import "components/staging-banner";
 // @import "components/fonts"; // Uncomment this line to self host font
 
 // Pages
