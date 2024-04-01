@@ -2,6 +2,7 @@
 title: Politique de Confidentialité
 layout: page
 description: Politique de confidentialité
+sitemap: false
 permalink: /privacy
 lang: fr
 ---

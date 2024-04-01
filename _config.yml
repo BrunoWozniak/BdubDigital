@@ -59,6 +59,7 @@ exclude:
   - LICENSE
   - README.md
   - images/screenshots/
+  - firebase.json
 
 languages: ["en", "fr"]
 default_lang: "en"

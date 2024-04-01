@@ -10,9 +10,11 @@ layout: content
         {% unless site.exclude_from_localization contains node.path %}
             {% comment %}<!-- assuming if there's not layout assigned, then not include the page in the sitemap, you may want to change this -->{% endcomment %}
             {% if node.layout %}
-                <url>
-                    <loc>{% if lang == site.default_lang %}{{ node.url | absolute_url }}{% else %}{{ node.url | prepend: lang | prepend: '/' | absolute_url }}{% endif %}</loc>
-                </url>
+                {% if node.sitemap != false %}
+                    <url>
+                        <loc>{% if lang == site.default_lang %}{{ node.url | absolute_url }}{% else %}{{ node.url | prepend: lang | prepend: '/' | absolute_url }}{% endif %}</loc>
+                    </url>
+                {% endif %}
             {% endif %}
         {% endunless %}
     {% endfor %}

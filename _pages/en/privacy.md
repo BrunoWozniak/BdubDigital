@@ -2,6 +2,7 @@
 title: Privacy
 layout: page
 description: Privacy
+sitemap: false
 permalink: /privacy
 lang: en
 ---
