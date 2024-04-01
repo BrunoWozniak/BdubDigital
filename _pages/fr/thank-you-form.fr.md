@@ -3,6 +3,7 @@ title: Merci
 layout: thank-you
 description: Merci pour votre demande de renseignements
 sitemap: false
+robots: noindex
 lang: fr
 permalink: /thank-you-form
 intro_image: "images/illustrations/undraw_accept_request.svg"

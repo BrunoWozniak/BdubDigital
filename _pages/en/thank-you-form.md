@@ -3,6 +3,7 @@ title: Thank you
 layout: thank-you
 description: Thank you for your inquiry
 sitemap: false
+robots: noindex
 permalink: /thank-you-form
 intro_image: "images/illustrations/undraw_accept_request.svg"
 intro_image_absolute: false

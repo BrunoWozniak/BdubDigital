@@ -3,6 +3,7 @@ title: Merci
 layout: thank-you
 description: Merci d'avoir réservé un créneau avec moi
 sitemap: false
+robots: noindex
 lang: fr
 permalink: /thank-you-booking
 intro_image: "images/illustrations/undraw_calling.svg"

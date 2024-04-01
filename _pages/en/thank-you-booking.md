@@ -3,6 +3,7 @@ title: Thank you
 layout: thank-you
 description: Thank you for booking a slot with me
 sitemap: false
+robots: noindex
 permalink: /thank-you-booking
 intro_image: "images/illustrations/undraw_calling.svg"
 intro_image_absolute: false

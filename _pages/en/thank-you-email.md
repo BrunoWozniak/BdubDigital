@@ -3,6 +3,7 @@ title: Thank you
 layout: thank-you
 description: Thank you for contacting me
 sitemap: false
+robots: noindex
 permalink: /thank-you-email
 intro_image: "images/illustrations/undraw_envelope_re_f5j4.svg"
 intro_image_absolute: false
