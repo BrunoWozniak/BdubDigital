@@ -16,7 +16,7 @@ intro_image_hide_on_mobile: true
 Here's what I bring to the table:
 
   > **Design Thinking Champion**: Adept at facilitating innovation workshops and user-centered problem solving.\
-  > **Startup Methodology Advocate**: Experienced in rapid prototyping and validating concepts with customers.
+  > **Startup Methodology Advocate**: Experienced in rapid prototyping and validating concepts with customers.\
   > **Solid Technology Background**: Skilled in building modern web and mobile apps, robust backends, and machine learning.
  
 For over two decades, I've thrived in the dynamic world of technology. From IT and SaaS to logistics and cutting-edge communication satellites, I've honed my skills across various sectors. My passion lies in building digital solutions and applications that empower businesses: web and mobile apps, modern backends, and machine learning implementations.
