@@ -3,3 +3,7 @@ layout: content
 ---
 User-agent: *
 Sitemap: {{ site.url }}/sitemap.xml
+disallow: /thank-you
+disallow: /fr/thank-you
+disallow: /team
+disallow: /fr/team
