@@ -1,8 +1,6 @@
 ---
 title: "Are You Stuck In The Innovation Rut?"
 author: Bruno Wozniak
-date: 2024-04-27T08:00:00+00:00
-weight: 1
 ---
 Is your innovation engine sputtering? A design sprint might be your escape route!
 
