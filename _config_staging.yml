@@ -28,7 +28,7 @@ collections:
     output: true
     sort_by: weight
     permalink: /:collection/:title
-  blogs:
+  posts:
     output: true
     sort_by: date
     permalink: /:collection/:title
@@ -41,9 +41,9 @@ defaults:
       layout: "service"
   - scope:
       path: ""
-      type: "blogs"
+      type: "posts"
     values:
-      layout: "blog"
+      layout: "post"
 
 sass:
   style: compressed # possible values: nested expanded compact compressed

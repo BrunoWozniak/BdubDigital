@@ -1,8 +1,8 @@
 ---
 title: Blog
-layout: blogs
+layout: posts
 description: Blog
-permalink: /blogs
+permalink: /posts
 ---
 
 # Blog

@@ -28,7 +28,7 @@ bodyClass: "page-services"
             <a href="{{ blog.url | relative_url }}">{{ blog.title }}</a>
           </h2>
           <p>{{ blog.author }}, {{ blog.date | date_to_string }}</p>
-          <p>{{ blog.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ blog.excerpt | markdownify | strip_html | truncate: 140 }}</p>
         </div>
       </div>
     </div>
