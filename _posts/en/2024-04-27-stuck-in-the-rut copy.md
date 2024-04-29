@@ -1,6 +1,7 @@
 ---
 title: "Are You Stuck In The Innovation Rut?"
 author: Bruno Wozniak
+image: /images/blog/stuck-in-a-rut.jpg
 ---
 Is your innovation engine sputtering? A design sprint might be your escape route!
 

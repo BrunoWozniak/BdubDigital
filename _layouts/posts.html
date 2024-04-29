@@ -27,7 +27,8 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h2>
-          <p>{{ post.author }}, {{ post.date | date_to_string }}</p>
+          <p>{{ post.author }}, posted on {{ post.date | date_to_string }}</p>
+          <img class="img-thumbnail" src={{ post.image }} alt="">
           <p>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</p>
         </div>
       </div>
