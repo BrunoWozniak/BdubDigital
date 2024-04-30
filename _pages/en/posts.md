@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-**Turn your ideas into reality!**
+**Turning ideas into reality!**
 
 Dive into our collection of insightful blog posts to unlock the secrets of transforming creative ideas into solutions that make a difference.
