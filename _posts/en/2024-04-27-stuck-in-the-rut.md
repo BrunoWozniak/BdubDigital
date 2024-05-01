@@ -5,7 +5,7 @@ image: /images/blog/stuck-in-a-rut.jpg
 ---
 Is your innovation engine sputtering? A design sprint might be your escape route!
 
-![Stuck in the innovation rut](/images/blog/stuck-in-a-rut.jpg)
+![Stuck in the innovation rut]({{ page.image }})
 
 <!--more-->
 

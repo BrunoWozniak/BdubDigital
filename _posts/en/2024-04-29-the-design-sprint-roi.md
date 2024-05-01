@@ -5,7 +5,7 @@ image: /images/blog/treasure-chest.jpg
 ---
 Is the ROI of design sprints a myth? Dive deep & discover the hidden treasure chest of benefits!
 
-![Stuck in the innovation rut](/images/blog/treasure-chest.jpg)
+![Stuck in the innovation rut]({{ page.image }})
 
 <!--more-->
 

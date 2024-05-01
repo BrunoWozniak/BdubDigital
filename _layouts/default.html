@@ -34,9 +34,6 @@
 </head>
 
 <body class='page {{layout.bodyClass}}'>
-  {%if jekyll.environment != "production" %}
-  {% include staging-banner.html %}
-  {% endif %}
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
