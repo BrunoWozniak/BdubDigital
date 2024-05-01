@@ -3,7 +3,7 @@ title: "Is the ROI of Design Sprints a Myth?"
 author: Bruno Wozniak
 image: /images/blog/treasure-chest.jpg
 ---
-Is the ROI of design sprints a myth? Dive deep & discover the hidden treasure chest of benefits!
+We crack the code, uncover the hidden treasure chest of benefits & reveal the hidden gems that can boost your bottom line
 
 ![Stuck in the innovation rut]({{ page.image }})
 
