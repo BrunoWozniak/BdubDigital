@@ -1,5 +1,7 @@
 my_services: 'My Services'
 view_all_my_services: 'View all my services'
+latest_post: 'Our latest article'
+all_posts: 'See all articles'
 want_to_talk: 'Want to talk?<BR>Leave me your email address.'
 send_button: 'Send'
 leave_a_message: "Leave me a message.<BR>I'll get back to you shortly."
