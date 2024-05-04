@@ -52,6 +52,7 @@ plugins:
   - jekyll-environment-variables
   - jekyll-polyglot
   - jekyll-redirect-from
+  - jekyll-timeago
   - jekyll-seo-tag
 
 include: ['_pages']
@@ -69,6 +70,7 @@ exclude:
   - README.md
   - images/screenshots/
   - firebase.json
+  - functions/
 
 languages: ["en", "fr"]
 default_lang: "en"

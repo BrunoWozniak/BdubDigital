@@ -36,7 +36,7 @@ bodyClass: "page-services"
               </h2>
               <p><em>
                 By {{ post.author }}<br>
-                Posted on {{ post.date | date_to_string }}
+                Posted {{ post.date | timeago }}
               </em></p>
               <h3>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</h3>
               <a href="{{ post.url | relative_url }}">Read more</a>
@@ -60,7 +60,7 @@ bodyClass: "page-services"
           </h2>
           <p><em>
             By {{ post.author }}<br>
-            Posted on {{ post.date | date_to_string }}
+            Posted {{ post.date | timeago }}
           </em></p>
           <h3>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</h3>
           <a href="{{ post.url | relative_url }}">Read more</a>

@@ -5,35 +5,30 @@
       <br><br>
     </div>
     <div>
-      <form id="form" class="form" name="simple-contact-form" accept-charset="utf-8" action="https://submit-form.com/AQxjKoBWf" method="post">
-        <input type="checkbox" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
-        <input type="text" name="_append" style="display:none" value="false" />
-        {% if include.show_message_text %}
-          {%if site.active_lang == site.default_lang %}
-            <input type="text" name="_redirect" style="display:none" value={{ "/thank-you-form" | absolute_url }} />
-          {% else %}
-            {% assign redirect_path = site.active_lang | append: "/thank-you-form" %}
-            <input type="text" name="_redirect" style="display:none" value={{ redirect_path | absolute_url }} />
-          {% endif %}
-          <input type="text" name="_email.subject" style="display:none" value='{{ site.title }} - Form ({{ site.active_lang }})' />
-        {% else %}
-          {%if site.active_lang == site.default_lang %}
-            <input type="text" name="_redirect" style="display:none" value={{ "/thank-you-email" | absolute_url }} />
-          {% else %}
-            {% assign redirect_path = site.active_lang | append: "/thank-you-email" %}
-            <input type="text" name="_redirect" style="display:none" value={{ redirect_path | absolute_url }} />
-          {% endif %}
-          <input type="text" name="_email.subject" style="display:none" value='{{ site.title }} - Contact ({{ site.active_lang }})' />
-        {% endif %}
+      <form id="form" class="form" name="simple-contact-form" accept-charset="utf-8" action="https://us-central1-bdubdigitaltest.cloudfunctions.net/sendEmail" method="post">
         {% if include.show_name %}
           <input type="text" name="name" id="full-name" placeholder="{{ site.data.strings.name_placeholder }}" required="">
         {% endif %}
-        <input type="email" name="_replyto" id="email-address" placeholder="{{ site.data.strings.email_placeholder }}" required="">
+        <input type="email" name="email" id="email-address" placeholder="{{ site.data.strings.email_placeholder }}" required="">
         {% if include.show_message_text %}
           <textarea rows="5" name="message" id="message" placeholder="{{ site.data.strings.inquiry_placeholder }}" required=""></textarea>
-        {% else %}
-          <textarea rows="5" name="message" id="message" style="display:none" value="No message (from home page)"></textarea>
         {% endif %}
+        {% if include.show_message_text %}
+          {%if site.active_lang == site.default_lang %}
+            {% assign redirect_path = "/thank-you-form" %}
+          {% else %}
+            {% assign redirect_path = site.active_lang | append: "/thank-you-form" %}
+          {% endif %}
+          <input type="text" name="subject" style="display:none" value='{{ site.title }} - Form ({{ site.active_lang }})' />
+        {% else %}
+          {%if site.active_lang == site.default_lang %}
+            {% assign redirect_path = "/thank-you-email" %}
+          {% else %}
+            {% assign redirect_path = site.active_lang | append: "/thank-you-email" %}
+          {% endif %}
+          <input type="text" name="subject" style="display:none" value='{{ site.title }} - Contact ({{ site.active_lang }})' />
+        {% endif %}
+        <input type="text" name="redirect" style="display:none" value={{ redirect_path | absolute_url }} />
         <input type="submit" value={{ site.data.strings.send_button }}>
       </form>
 
