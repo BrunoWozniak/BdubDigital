@@ -10,7 +10,7 @@ intro_image_hide_on_mobile: true
 
 # Blog
 
-**De l'idée à la realité!**
+**De l'idée à la réalité!**
 
 Explorez notre collection d'articles de blog[^1] et découvrez les secrets de la conversion d'idées créatives, en solutions impactantes.
 
