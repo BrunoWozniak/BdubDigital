@@ -10,7 +10,7 @@
   .sub-footer-inner {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
     @include media-breakpoint-up(md) {
       flex-direction: row;
     }
