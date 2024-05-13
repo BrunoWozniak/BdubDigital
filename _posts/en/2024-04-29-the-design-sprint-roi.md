@@ -1,5 +1,5 @@
 ---
-title: "Is the ROI of Design Sprints a Myth?"
+title: "Is The ROI Of Design Sprints A Myth?"
 author: Bruno Wozniak
 image: /images/blog/treasure-chest.jpg
 ---
