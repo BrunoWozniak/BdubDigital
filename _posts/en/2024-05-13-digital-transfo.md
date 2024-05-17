@@ -5,7 +5,7 @@ image: /images/blog/oasis.jpg
 ---
 
 Just like a lush oasis emerges from the harsh desert landscape, digital transformation can create a thriving digital ecosystem within your organization.
-And Innovation, Human-Centered Design, and Rapid Prototyping can spark that transformation
+And Innovation, Human-Centered Design, and Rapid Prototyping can spark that transformation.
 
 ![Digital Transformation]({{ page.image }})
 
