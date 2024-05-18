@@ -1,7 +1,7 @@
 ---
 title: "Design Thinking vs. Design Sprint: When to Use Each Powerful Tool"
 author: Bruno Wozniak
-image: /images/blog/design-thinking-sprint.jpg
+image: /images/blog/photo-of-a-man-on-the-top-of-the-mountain.jpg
 ---
 
 Innovation. It's the lifeblood of any successful business. But how do you ensure a steady stream of fresh ideas that resonate with your users? Enter design thinking and design sprints – two powerful tools in the innovation toolbox.
