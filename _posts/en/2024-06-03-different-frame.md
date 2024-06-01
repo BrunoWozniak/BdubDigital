@@ -1,5 +1,5 @@
 ---
-title: "Beyond the Blueprint: Why Innovation Initiatives Demand a Different Dance"
+title: "Beyond the Blueprint: Why Innovation Initiatives Demand a Different Frame"
 author: Bruno Wozniak
 image: /images/blog/explorer.jpg
 ---
