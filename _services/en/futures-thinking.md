@@ -2,7 +2,7 @@
 title: "Futures Thinking"
 page_id: futures-thinking
 date: 2024-03-20T08:00:00+00:00
-weight: 6
+weight: 13
 ---
 
 # Prepare for Tomorrow's Challenges and Opportunities. Today.
