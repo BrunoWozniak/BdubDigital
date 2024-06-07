@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 3
 ---
 
-## Get your specific problem solved.
+## Get your Specific Problem Solved.
 
 ![À la carte](/images/illustrations/undraw_elements_re_25t9.svg)
 
@@ -19,7 +19,7 @@ Unlock the power of design thinking to tackle your unique challenges. I offer a 
 > - **Customized Approach**: There's no one-size-fits-all solution. I'll work closely with you to define your project scope and craft a personalized plan that leverages design thinking methodologies.
 > - **Flexible Engagement**: Choose the level of support you need, from a focused problem-framing workshop to a comprehensive engagement spanning the entire problem-solving journey.
 
-## Design Thinking Can Help You With:
+## Design Thinking can help you with:
 
 Here are some examples of how I've helped clients leverage design thinking to achieve success:
 

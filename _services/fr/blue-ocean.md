@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 11
 ---
 
-## Redéfinissez votre proposition de valeur.
+## Redéfinissez votre Proposition de Valeur.
 
 ![Blue Ocean](/images/illustrations/undraw_engineering_team_a7n2.svg)
 

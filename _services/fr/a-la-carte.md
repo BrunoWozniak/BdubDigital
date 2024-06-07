@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 3
 ---
 
-## Résolvez des problèmes de toute nature.
+## Résolvez des Problèmes de toute nature.
 
 ![À la carte](/images/illustrations/undraw_elements_re_25t9.svg)
 

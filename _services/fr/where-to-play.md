@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 12
 ---
 
-# Maximisez vos chances de croissance.
+# Maximisez vos chances de Croissance.
 
 ![Where To Play](/images/illustrations/undraw_visual_data_re_mxxo.svg)
 

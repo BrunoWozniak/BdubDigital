@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 3
 ---
 
-## Du concept à la version 1
+## Du Concept à la Version 1
 
 ![Rapid Prototyping](/images/illustrations/undraw_design_process_re_0dhf.svg)
 

@@ -5,7 +5,7 @@ date: 2024-03-20T08:00:00+00:00
 weight: 13
 ---
 
-# Préparez vous aux challenges de demain. Aujourd'hui.
+# Préparez vous aux Challenges de Demain. Aujourd'hui.
 
 ![Where To Play](/images/illustrations/undraw_forming_ideas_re_2afc.svg)
 
