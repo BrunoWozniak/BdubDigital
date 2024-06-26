@@ -1,7 +1,7 @@
 ---
 title: "3 Design Thinking Trends You Need to Know"
 author: Bruno Wozniak
-image: /images/blog/photo-of-a-man-on-the-top-of-the-mountain.jpg
+image: /images/blog/design-mockup.png
 ---
 
 In today's rapidly changing world, staying relevant and competitive requires constant innovation. Design thinking, with its human-centered approach to problem-solving, has become a powerful tool for businesses to navigate this ever-evolving landscape. But design thinking itself is not static. New trends are emerging, pushing the boundaries of what's possible and offering exciting opportunities for companies to future-proof their success. Let's explore three key design thinking trends you can't afford to miss.
