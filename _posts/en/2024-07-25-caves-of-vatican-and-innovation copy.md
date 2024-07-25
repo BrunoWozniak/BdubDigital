@@ -4,7 +4,7 @@ author: Bruno Wozniak
 image: /images/blog/vatican.png
 ---
 
-André Gide's "The Caves of the Vatican" is a satirical novel that explores themes of deception, moral ambiguity, and the pursuit of truth. The novel’s complex characters and intricate plot offer valuable insights into the innovation process, particularly when employing foresight thinking, creating uncontested markets, design thinking, design sprints, rapid prototyping, and lean startup methodologies. In this blog post, we’ll draw parallels between Gide’s literary work and the path to successful innovation, highlighting how these themes can inform and inspire modern innovators.
+André Gide's "The Caves of the Vatican" is a satirical novel that explores themes of deception, moral ambiguity, and the pursuit of truth. The novel’s complex characters and intricate plot offer valuable insights into the innovation process, particularly when employing foresight thinking, blue ocean shift, design thinking, design sprints, rapid prototyping, and lean startup methodologies. In this blog post, we’ll draw parallels between Gide’s literary work and the path to successful innovation, highlighting how these themes can inform and inspire modern innovators.
 
 ![Explorer]({{ page.image }})
 
@@ -26,7 +26,7 @@ In The Caves of the Vatican, the characters grapple with moral ambiguity, making
 
 The Caves of the Vatican’s plot involves characters taking significant risks to achieve their goals, reflecting the necessity of bold experimentation in the face of uncertainty.
 
-> **Innovation Parallel**: Experimentation and risk-taking are fundamental to rapid prototyping and lean startup methodologies. Innovators must be willing to test new ideas, fail fast, and learn from their mistakes. This iterative process allows for continuous improvement and adaptation, leading to more refined and successful innovations. Design sprints provide a structured framework for rapid experimentation, enabling teams to validate ideas quickly and effectively.
+> **Innovation Parallel**: Experimentation and risk-taking are fundamental to innovation. Innovators must be willing to test new ideas, fail fast, and learn from their mistakes. This iterative process allows for continuous improvement and adaptation, leading to more refined and successful innovations. Design sprints provide a structured framework for rapid experimentation, enabling teams to validate ideas quickly and effectively.
 
 ## Creating Uncontested Markets
 
