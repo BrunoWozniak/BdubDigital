@@ -2,6 +2,7 @@
 title: "Innovating with Proust: Lessons from In Search Of Lost Time for Modern Innovators"
 author: Bruno Wozniak
 image: /images/blog/prousts-madeleine.png
+tag: "Summer Series"
 ---
 
 Marcel Proust's "In Search of Lost Time" (À la recherche du temps perdu) is a literary masterpiece that delves deeply into themes of memory, time, perception, and the complexities of human experience. While at first glance, it might seem distant from the world of innovation and business, Proust’s work offers profound insights that can illuminate the path from idea to impact. As a freelancer specializing in helping teams and organizations innovate through design thinking, design sprints, rapid prototyping, and blue ocean strategy, I see striking parallels between Proust’s exploration of time and memory and the modern processes of innovation and business development.
