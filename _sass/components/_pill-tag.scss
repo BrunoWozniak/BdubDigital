@@ -1,13 +1,33 @@
 .pill-tag {
   display: inline-block;
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 0.7rem;
   background-color: $primary;
   border-radius: 20px;
-  border: 1px solid $primary-dark;
-  color: $primary;
-  font-size: 0.875rem;
-  font-weight: 400;
+  border: none;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: normal;
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  @include media-breakpoint-up(sm) {
+    font-size: 12px;
+  }
+  @include media-breakpoint-up(md) {
+    font-size:10px;
+  }
+  @include media-breakpoint-up(lg) {
+    font-size: 12px;
+  }
+  @include media-breakpoint-up(xl) {
+    font-size: 14px;
+  }
+}
+
+.pill-tag-container {
+  position: relative;
 }

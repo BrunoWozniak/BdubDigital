@@ -34,13 +34,15 @@ bodyClass: "page-services"
               <h2 class="service-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h2>
-              <p><em>
-                By {{ post.author }}<br>
-                Posted {{ post.date | timeago }}
-                {% if post.tag %}
-                  <div class="pill-tag">{{ post.tag }}</div>
-                {% endif %}
-              </em></p>
+                <div class="pill-tag-container">
+                  <em><p>
+                  By {{ post.author }}<br>
+                  Posted {{ post.date | timeago }}
+                  </p></em>
+                  {% if post.special-tag %}
+                    <div class="pill-tag">{{ post.special-tag }}</div>
+                  {% endif %}
+                </div>
               <h3>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</h3>
               <a href="{{ post.url | relative_url }}">Read more</a>
             </div>
@@ -61,10 +63,17 @@ bodyClass: "page-services"
           <h2 class="service-title">
             <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h2>
-          <p><em>
-            By {{ post.author }}<br>
-            Posted {{ post.date | timeago }}
-          </em></p>
+
+            <div class="pill-tag-container">
+              <em><p>
+              By {{ post.author }}<br>
+              Posted {{ post.date | timeago }}
+              </p></em>
+              {% if post.special-tag %}
+                <div class="pill-tag">{{ post.special-tag }}</div>
+              {% endif %}
+            </div>
+
           <h3>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</h3>
           <a href="{{ post.url | relative_url }}">Read more</a>
         </div>

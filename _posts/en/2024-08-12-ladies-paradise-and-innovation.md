@@ -2,7 +2,7 @@
 title: "Innovating with Zola: Lessons from The Ladies’ Paradise for Modern Innovators"
 author: Bruno Wozniak
 image: /images/blog/ladies-paradise.png
-tag: "Summer Series"
+special-tag: Summer Series
 ---
 
 Emile Zola’s "The Ladies’ Paradise" ("Au Bonheur des Dames") is a vivid portrayal of the transformative power of innovation in the retail industry during the late 19th century. The novel follows the rise of a new department store in Paris, which revolutionizes the shopping experience, and in doing so, disrupts traditional small businesses. Zola’s work is not just a story of commerce but a masterclass in innovation, showcasing principles that resonate deeply with today’s methodologies like design thinking, lean startup, rapid prototyping, and blue ocean shift. As a freelancer specializing in guiding teams and organizations from idea to impact, I see powerful parallels between the strategies employed in "The Ladies’ Paradise" and the modern innovation process. In this blog post, we’ll explore these connections and draw actionable insights for driving impactful innovation in today’s fast-paced world.

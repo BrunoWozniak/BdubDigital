@@ -2,7 +2,7 @@
 title: 'Navigating the Labyrinth: Innovation Lessons from Kafka’s "The Trial"'
 author: Bruno Wozniak
 image: /images/blog/maze.png
-tag: "Summer Series"
+special-tag: Summer Series
 ---
 
 In the realm of literature, few works capture the essence of existential dread and bureaucratic absurdity as powerfully as Franz Kafka's "The Trial." Published posthumously in 1925, the novel follows Josef K., a man who is inexplicably arrested and entangled in a nightmarish legal process. As a freelancer specializing in guiding teams from idea to impact through design thinking, design sprints, rapid prototyping, and blue ocean shift, I've found that Kafka's dark, labyrinthine tale offers surprisingly poignant insights into the innovation process. Here, we explore these parallels and how they can inform and inspire modern innovation practices.
