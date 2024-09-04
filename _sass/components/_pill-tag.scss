@@ -1,33 +1,22 @@
 .pill-tag {
   display: inline-block;
   padding: 0.3rem 0.7rem;
-  background-color: $primary;
+  margin:0 0.5rem 0.5rem 0;
+  background-color: none;
   border-radius: 20px;
-  border: none;
-  color: #ffffff;
+  border: 1px solid $primary;
+  color: $primary;
   font-size: 12px;
   font-weight: normal;
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  position: absolute;
-  top: 50%;
-  right: 0;
-  transform: translateY(-50%);
-  @include media-breakpoint-up(sm) {
-    font-size: 12px;
-  }
-  @include media-breakpoint-up(md) {
-    font-size:10px;
-  }
-  @include media-breakpoint-up(lg) {
-    font-size: 12px;
-  }
-  @include media-breakpoint-up(xl) {
-    font-size: 14px;
-  }
+  flex-shrink: 0;
+  word-break: break-all;
+  flex-basis: auto;
 }
 
 .pill-tag-container {
-  position: relative;
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
 }

@@ -109,10 +109,19 @@ bodyClass: "page-home"
             <h2 class="service-title">
               <a href="{{ site.posts.first.url | relative_url }}">{{ site.posts.first.title }}</a>
             </h2>
-            <p><em>
-              By {{ site.posts.first.author }}<br>
-              Posted {{ site.posts.first.date | timeago }}
-            </em></p>
+
+            {% if site.posts.first.special-tag %}
+              <div class="pill-tag-container">
+              <div class="pill-tag">{{ site.posts.first.special-tag }}</div>
+              </div>
+            {% endif %}
+            <p>
+            <em>
+            By {{ site.posts.first.author }}<br>
+            Posted {{ site.posts.first.date | timeago }}
+            </em>
+            </p>
+
             <h3>{{ site.posts.first.excerpt | markdownify | strip_html | truncate: 140 }}</h3>
             <a href="{{ site.posts.first.url | relative_url }}">Read more</a>
           </div>
