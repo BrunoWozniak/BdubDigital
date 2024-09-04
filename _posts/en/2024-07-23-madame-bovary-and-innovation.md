@@ -2,6 +2,7 @@
 title: What "Madame Bovary" Teaches Us About True Innovation
 author: Bruno Wozniak
 image: /images/blog/bovary.png
+tag: "Summer Series"
 ---
 
 Gustave Flaubert's "Madame Bovary" is a literary masterpiece that explores the life of Emma Bovary, a woman trapped in her provincial life and driven by her desire for excitement and fulfillment. Emma’s constant pursuit of novelty and her ultimate downfall provide valuable insights into the challenges and pitfalls of innovation. As a freelancer specializing in guiding teams from idea to impact through foresight thinking, design thinking, design sprints, rapid prototyping, and lean startup methodologies, I find that Emma Bovary’s journey offers profound lessons for the innovation process. In this blog post, we’ll explore these parallels to better understand how to navigate the world of innovation.

@@ -1,0 +1,13 @@
+.pill-tag {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  background-color: $primary;
+  border-radius: 20px;
+  border: 1px solid $primary-dark;
+  color: $primary;
+  font-size: 0.875rem;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+}

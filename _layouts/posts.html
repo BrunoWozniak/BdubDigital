@@ -37,6 +37,9 @@ bodyClass: "page-services"
               <p><em>
                 By {{ post.author }}<br>
                 Posted {{ post.date | timeago }}
+                {% if post.tag %}
+                  <div class="pill-tag">{{ post.tag }}</div>
+                {% endif %}
               </em></p>
               <h3>{{ post.excerpt | markdownify | strip_html | truncate: 140 }}</h3>
               <a href="{{ post.url | relative_url }}">Read more</a>

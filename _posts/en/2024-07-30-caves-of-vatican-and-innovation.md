@@ -2,6 +2,7 @@
 title: "From Conspiracy to Creativity: What 'The Caves of the Vatican' Teaches Us About Innovation"
 author: Bruno Wozniak
 image: /images/blog/vatican.png
+tag: "Summer Series"
 ---
 
 André Gide's "The Caves of the Vatican" is a satirical novel that explores themes of deception, moral ambiguity, and the pursuit of truth. The novel’s complex characters and intricate plot offer valuable insights into the innovation process, particularly when employing foresight thinking, blue ocean shift, design thinking, design sprints, rapid prototyping, and lean startup methodologies. In this blog post, we’ll draw parallels between Gide’s literary work and the path to successful innovation, highlighting how these themes can inform and inspire modern innovators.
