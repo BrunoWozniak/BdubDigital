@@ -10,6 +10,6 @@ intro_image_hide_on_mobile: true
 
 # My services
 
-Empower your team to transform challenge and opportunities into groundbreaking solutions. I offer a comprehensive suite of services designed to accelerate your innovation journey and make an impact. From validating core concepts through rapid prototyping, to navigating future trends, I'll equip you with the tools and approaches to unlock growth and achieve market success.
+Drive digital and AI transformation with strategic technology leadership. I offer a comprehensive suite of CTO services to help you harness innovation, scale with technology, and lead in the digital era. From crafting future-ready strategies to implementing cutting-edge solutions, I’ll empower your team to achieve sustained growth and market leadership.
 
-**Let's chart your path to innovation together.**
+**Let’s lead your digital transformation journey together.**

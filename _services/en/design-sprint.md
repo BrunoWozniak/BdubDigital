@@ -1,32 +1,39 @@
 ---
 title: "Design Sprint"
 page_id: design-sprint
-date: 2024-03-27T08:00:00+00:00
-weight: 1
+date: 2024-09-01T08:00:00+00:00
+weight: 100
 ---
 
-# Accelerate your Journey from Idea to Impact.
+## From Idea to Impact, Fast
 
-![Design Sprint](/images/illustrations/undraw_building_websites_i78t.svg)
+![Design Sprint](/images/illustrations/design-sprint.svg)
 
 <!--more-->
 
-Unleash the power of Design Thinking in a focused, five-day workshop, regardless of location. Whether you're in the same room or spread across the globe, I'll guide your team through the Design Sprint process to rapidly develop, test, and de-risk your new product or service ideas.
+Facilitate focused, high-intensity design sprints to rapidly validate ideas, prototypes, and solutions. Perfect for companies looking to test concepts in short cycles, gather real user feedback, and make informed decisions.
 
-## Here's what you can expect:
+## Ideal For:
+> - Companies with new product or service ideas that need quick validation before further investment.
+> - Teams facing complex problems requiring rapid, collaborative solutions.
+> - Organizations looking to speed up innovation cycles while minimizing risks.
+> - Leadership teams seeking to align internal stakeholders around a common vision or product concept.
+> - Businesses launching into new markets and wanting to test their assumptions quickly.
 
-> - **Pre-workshop preparation**: We'll work together to define your challenge, target audience, and desired outcomes.
-> - **Five-day intensive workshop**: I'll facilitate a collaborative process through key stages like understanding the problem, sketching solutions, prototyping, and conducting user testing.
-> - **Closure and documentation**: I'll synthesize learnings, document key decisions, and create a clear roadmap for next steps.
-> - **Optional iteration**: Based on user feedback and team insights, we can further develop the most promising solution or explore pivot opportunities through an additional sprint.
+## What to expect:
+
+> - **Pre-workshop Preparation**: I’ll collaborate with your team to define the challenge, key objectives, target audience, and desired outcomes, ensuring a focused and successful sprint.
+> - **Five-Day Intensive Workshop**: Over five structured days, we’ll work through key stages like understanding the problem, brainstorming and sketching solutions, prototyping, and user testing—all within a highly collaborative, hands-on environment.
+> - **Closure & Documentation**: I’ll synthesize the workshop findings, capture key decisions, and provide a clear, actionable roadmap for next steps and potential iterations.
+> - **Optional Iteration**: Based on user feedback and insights gathered, we can conduct a follow-up sprint to refine the solution, explore alternative approaches, or pivot as needed for optimal results.
 
 ## Benefits:
 
-> - **Rapidly validate ideas**: Get user feedback and identify potential issues early in the development process.
-> - **Save time and resources**: Reduce the risk of investing in solutions that don't resonate with users.
-> - **Maximize team alignment**: Foster collaboration and shared understanding of user needs and priorities.
-> - **Increase the chance of success**: Make data-driven decisions based on real user feedback.
+> - **Rapidly validate ideas**: Test concepts with real users in just five days, reducing guesswork and uncertainty in the development process.
+> - **Save time and resources**: Avoid costly missteps by identifying potential roadblocks early and ensuring only the most promising ideas move forward.
+> - **Maximize team alignment**: Unify your team around a shared vision, ensuring everyone is on the same page about user needs, priorities, and solutions.
+> - **Increase the chance of success**: Make data-driven decisions based on actual user feedback, significantly boosting the chances of success in the marketplace.
 
-I offer both in-person and virtual Design Sprint facilitation, catering to your team's needs and preferences.
+I offer both in-person and virtual Design Sprint facilitation, depending on your team’s preferences and needs. Whether you’re looking to kickstart a new idea or solve a complex challenge, a Design Sprint is the perfect way to accelerate progress and minimize risk.
 
-**Ready to unlock the potential of your next big idea? Let's discuss how a Design Sprint can help you get there.**
+**Ready to unlock the potential of your next big idea? Let’s talk about how a Design Sprint can help you get there. Contact me today!**

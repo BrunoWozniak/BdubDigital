@@ -1,27 +1,27 @@
 [
   {
-    "title": "Speed up",
-    "description": "From idea to impact at lightning speed",
+    "title": "Vision",
+    "description": "Crafting Your Future-Ready Technology Roadmap",
     "image": {
-      "url": "images/features/noun-speedometer-323335.svg",
+      "url": "images/features/vision.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "De-risk",
-    "description": "De-risk the development of new ideas",
+    "title": "Innovation",
+    "description": "Leading Digital & AI Innovation with Confidence",
     "image": {
-      "url": "images/features/noun-new-model-6409843.svg",
+      "url": "images/features/innovation.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Boost",
-    "description": "Boost cross-functional collaboration",
+    "title": "Excellence",
+    "description": "Optimizing Your Technology for Scalable Growth",
     "image": {
-      "url": "images/features/noun-collaboration-6622629.svg",
+      "url": "images/features/excellence.svg",
       "width": 80,
       "height": 80
     }
