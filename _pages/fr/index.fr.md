@@ -1,7 +1,7 @@
 ---
 title: Bdub.digital
 layout: home
-description: J'accompagne vos équipes dans la génération et la réalisation d'idées nouvelles tout en dérisquant leur developpement, et à transformer les concepts en solutions validées par les utilisateurs grâce à un travail collaboratif à haute intensité et des méthodologies de pointe.
+description: J’aide les entreprises à se démarquer, à l'ère du numérique, en offrant mes services de fractional CTO, de conseil en stratégie technologique et des solutions innovantes pour transformer leurs ambitions en succès.
 lang: fr
 permalink: /
 intro_image: "images/illustrations/undraw_product_iteration_kjok.svg"
@@ -12,7 +12,6 @@ last_modified_at: 2024-03-20T08:00:00+00:00
 ---
 
 # Bdub.digital
-**De l'idée à l'impact.**\
-**Un sprint à la fois.**
+**Là où la technologie donne vie à l’innovation.**
 
-J'accompagne vos équipes dans la génération et la réalisation d'idées nouvelles tout en dérisquant leur developpement, et dans la conversion de concepts en solutions tangibles validées par les utilisateurs, grâce à un travail collaboratif à haute intensité et des méthodologies de pointe.
+J’aide les entreprises à se démarquer, à l'ère du numérique, en offrant mes services de fractional CTO, de conseil en stratégie technologique et des solutions innovantes pour transformer leurs ambitions en succès.

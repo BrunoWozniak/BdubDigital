@@ -11,27 +11,27 @@ intro_image_hide_on_mobile: true
 
 # About Me
 
-## Making an Impact at the Intersection of Technology and Strategy
+**Making an Impact at the Intersection of Technology and Strategy**
 
 For over two decades, I’ve been immersed in the fast-evolving world of technology and digital transformation. I’ve built, led, and implemented cutting-edge digital solutions across industries—from IT and SaaS to logistics, and communication satellites. But technology is just the beginning.
 
 Today, I specialize in guiding organizations through the complexity of **digital and AI transformation**, helping them not just adapt but lead in a digital-first world. As a Fractional CTO, I provide **strategic leadership, empower teams, and bring technology visions to life**—whether you're scaling a startup or driving change in an established enterprise.
 
-## What I Bring to the Table
+**What I Bring to the Table**
 
-**Tech Mastery**: Developing scalable digital products and optimizing technology stacks to ensure seamless innovation and growth.
+- **Tech Mastery**: Developing scalable digital products and optimizing technology stacks to ensure seamless innovation and growth.
 
-**Innovation Leadership**: I facilitate breakthrough thinking, helping teams rapidly ideate, prototype, and validate new solutions.
+- **Innovation Leadership**: I facilitate breakthrough thinking, helping teams rapidly ideate, prototype, and validate new solutions.
 
-**Digital & AI Strategy**: Crafting future-proof strategies that harness the latest in digital and AI technology to keep your business competitive.
+-  **Digital & AI Strategy**: wqwqw Crafting future-proof strategies that harness the latest in digital and AI technology to keep your business competitive.
 
-## A Career at the Crossroads of Tech, Innovation, Strategy and Leadership
+**A Career at the Crossroads of Tech, Innovation, Strategy and Leadership**
 
 My journey spans industries—from IT and SaaS to logistics and communication satellites—where I’ve played key roles in **building cutting-edge technology**. Over the past six years, I’ve shifted toward **innovation leadership**, driving **digital transformation** initiatives, facilitating **digital product development**, and guiding companies through **AI adoption**.
 
 My passion lies in helping teams turn big ideas into reality, navigate complex transformations, and unlock growth through strategic technology.
 
-## How I Can Help You
+**How I Can Help You**
 
 I provide executive-level guidance on digital and AI strategy, technology roadmaps, and innovation frameworks to drive **digital transformation**.
 
